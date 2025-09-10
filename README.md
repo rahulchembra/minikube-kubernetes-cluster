@@ -14,7 +14,7 @@ This project demonstrates how to deploy and manage applications in a local Kuber
    - Starts a local Kubernetes cluster on your system.
 
 2. **Create Deployment**
-   - Create a deployment.yaml file defining your app (e.g., Nginx).  
+   - Create a deployment.yaml file defining your app (e.g, Nginx).  
    - Apply the deployment:
    kubectl apply -f deployment.yaml
 
